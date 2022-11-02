@@ -3,7 +3,7 @@
 
 ![PancakeSwap-Logo](/img/logo.jpg?raw=true)
 
-PancakeSwap Prediction Bot using AI recomendations.
+PancakeSwap Prediction Bot using AI recommendations.
 
 ## ⭐Please consider giving a **star**.
 
