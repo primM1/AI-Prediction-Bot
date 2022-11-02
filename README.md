@@ -29,7 +29,7 @@ Then run the following commands in terminal:
 
 1. Open the **.env** file with any code/text editor and add your private key like so:
 ```
-PRIVATE_KEY=0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd
+PRIVATE_KEY="0xa2hjtjnhjputdavmarh3uqmntxevx6j6faui8sorcppyqmuekj54btyd"
 ```
 3. Open the **bot.js** file and setup the following variables:
 ```
